@@ -7,10 +7,10 @@ echo -e "$grn What is your age?$rset"
 read age
 echo -e "$grn What is your name?$rset"
 read name
-echo -e "$grn I AM NOT RESPONSIBLE FOR ANY ILLEGAL WORK THIS IS>
+echo -e "$grn I AM NOT RESPONSIBLE FOR ANY ILLEGAL WORK THIS IS YOUR RESPONSIBILITY IF YOU EXCEPT YOUR RESPONSIBILITY THEN CLICK ENTER$rset"            
 read agreement
 clear
-echo -e "$grn              <welcome to andro cat> (created by h>
+echo -e "$grn              <welcome to andro cat> (created by mr_x)$rset"
 echo "                /\___/\ "
 echo "               /       \ "
 echo "              l  u   u  l "
