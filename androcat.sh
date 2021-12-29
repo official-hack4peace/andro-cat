@@ -11,17 +11,17 @@ echo -e "$grn I AM NOT RESPONSIBLE FOR ANY ILLEGAL WORK THIS IS YOUR RESPONSIBIL
 read agreement 
 clear
 echo                          <welcome to andro cat> (created by hack4peace)
-echo "                /\___/\
-echo "               /       \
-echo "              l  u   u  l
-echo "            --l----*----l--
-echo "               \   w   /     - Meow!
-echo "                 ======     
-echo "               /       \ __
-echo "               l        l\ \
-echo "                l        l/ /   
-echo "                l  l l   l /
-echo "                \ ml lm /_/          
+echo "                /\___/\"
+echo "               /       \"
+echo "              l  u   u  l"
+echo "            --l----*----l--"
+echo "               \   w   /     - Meow!"
+echo "                 ====== "  
+echo "               /       \ __"
+echo "               l        l\ \"
+echo "                l        l/ /"
+echo "                l  l l   l /"
+echo "                \ ml lm /_/"        
 sleep 5
 adb pull /sdcard/Download
 adb pull /sdcard/DCMI
